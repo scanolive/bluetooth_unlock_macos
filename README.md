@@ -34,8 +34,8 @@
 
 ### 代码引用及感谢
 
-* lapfelix [BluetoothConnector] (https://github.com/lapfelix/BluetoothConnector)
-*  atika [bluesense] (https://github.com/atika/bluesense)
+* lapfelix [BluetoothConnector](https://github.com/lapfelix/BluetoothConnector)
+*  atika [bluesense](https://github.com/atika/bluesense)
 
 	
 
