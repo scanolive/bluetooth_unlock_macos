@@ -26,7 +26,7 @@ function check_lock()
 function inputpasswd()
 {
 	/usr/bin/osascript "${WORK_DIR}"input_passwd.applescript	
-	/usr/bin/caffeinate -u -t 10 
+	/usr/bin/caffeinate -u -t 3 & 
 }
 function unlock()	
 {
